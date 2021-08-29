@@ -1,0 +1,39 @@
+org/bagdev/boulangerbot/commands/CommandPD.java
+ org.bagdev.boulangerbot.commands.CommandPD
+org/bagdev/boulangerbot/commands/CommandLove.java
+ org.bagdev.boulangerbot.commands.CommandLove
+org/bagdev/boulangerbot/commands/CommandBeauGosse.java
+ org.bagdev.boulangerbot.commands.CommandBeauGosse
+org/bagdev/boulangerbot/utils/commands/CommandRegistry.java
+ org.bagdev.boulangerbot.utils.commands.CommandRegistry
+org/bagdev/boulangerbot/utils/commands/CommandExecutor.java
+ org.bagdev.boulangerbot.utils.commands.CommandExecutor
+org/bagdev/boulangerbot/utils/ConfigManager.java
+ org.bagdev.boulangerbot.utils.ConfigManager
+org/bagdev/boulangerbot/utils/StringUtils.java
+ org.bagdev.boulangerbot.utils.StringUtils
+org/bagdev/boulangerbot/utils/commands/Command.java
+ org.bagdev.boulangerbot.utils.commands.Command
+org/bagdev/boulangerbot/commands/CommandUptime.java
+ org.bagdev.boulangerbot.commands.CommandUptime
+org/bagdev/boulangerbot/commands/CommandPing.java
+ org.bagdev.boulangerbot.commands.CommandPing
+org/bagdev/boulangerbot/commands/CommandFdp.java
+ org.bagdev.boulangerbot.commands.CommandFdp
+org/bagdev/boulangerbot/commands/CommandDelete.java
+ org.bagdev.boulangerbot.commands.CommandDelete
+org/bagdev/boulangerbot/commands/CommandAvatar.java
+ org.bagdev.boulangerbot.commands.CommandAvatar
+org/bagdev/boulangerbot/commands/CommandTG.java
+ org.bagdev.boulangerbot.commands.CommandTG
+org/bagdev/boulangerbot/commands/CommandHelp.java
+ org.bagdev.boulangerbot.commands.CommandHelp
+org/bagdev/boulangerbot/Main.java
+ org.bagdev.boulangerbot.Main
+org/bagdev/boulangerbot/commands/CommandTrivia.java
+ org.bagdev.boulangerbot.commands.CommandTrivia
+ org.bagdev.boulangerbot.commands.CommandTrivia$1
+org/bagdev/boulangerbot/commands/CommandGif.java
+ org.bagdev.boulangerbot.commands.CommandGif
+org/bagdev/boulangerbot/utils/commands/MessageManager.java
+ org.bagdev.boulangerbot.utils.commands.MessageManager
